@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFEEBB,100:99DBF5)
-### Hi there 👋
-
 <!--
 **KoYujung/KoYujung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
